@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Emin',
+	name: 'Save',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'bot',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://chatgt.com/',
 		},
 		{
 			id: '2',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'GitHub',
 			icon: 'github',
-			link: 'https://github.com/xeome',
+			link: 'https://github.com/saveside',
 		},
         {
 			id: '6',
