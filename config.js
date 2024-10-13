@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'bot',
 			icon: 'bot',
-			link: 'https://chatgt.com/',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '2',
