@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Save',
+	name: 'Yağız',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
